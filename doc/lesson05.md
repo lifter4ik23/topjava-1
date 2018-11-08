@@ -2,8 +2,7 @@
 
 ## <a href="https://drive.google.com/drive/folders/0B9Ye2auQ_NsFfmctT3oyNW1qaVhDb2p0bGpyTFVlaUJ2VVpOdVgtWF9KTUFBMWFaR2xVYVE">Материалы занятия</a>
 
-### Внимание!! Это видео в процессе доработки. Скорее всего закончу в начале следующей недели.
-## ![correction](https://cloud.githubusercontent.com/assets/13649199/13672935/ef09ec1e-e6e7-11e5-9f79-d1641c05cbe6.png) ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Обзор JDK 9/11. Миграция Topjava с 1.8 на 11](http://javaops.ru/view/resources/jdk8_11)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Обзор JDK 9/11. Миграция Topjava с 1.8 на 11](http://javaops.ru/view/resources/jdk8_11)
 
 #### Apply 5_0_jdk_11.patch
 - [Добавил javax зависимости](https://stackoverflow.com/questions/48204141/replacements-for-deprecated-jpms-modules-with-java-ee-apis)
