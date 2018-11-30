@@ -110,7 +110,7 @@ GROUP BY u.id
 - Инструменты тестирования REST:
   - <a href="http://www.soapui.org/">SoapUi</a>
   - <a href="http://rus-linux.net/lib.php?name=/MyLDP/internet/curlrus.html">Написание HTTP-запросов с помощью Curl</a>
-(для Windows можно использовать Git Bash)
+(для Windows можно использовать Git Bash). Для работы с UTF-8 в Windows 10 нужны пляски с бубном: ["Язык и региональные стандарты" -> "Сопутствующие параметры" -> "Административные языковые параметры" -> "Изменить язык системы" -> галка "Бета-версия:Использовать Юникод (UTF-8) для поддержки языка во всем мире"](https://drive.google.com/open?id=1J1WquTv9wenJQ9ptMymXPYGnrvFzAV-L), перезагрузка.
   - <a href="https://www.getpostman.com/">Postman</a>
   - <a href="https://www.jetbrains.com/help/idea/rest-client-tool-window.html">IDEA: Tools->HTTP Client->...</a>
   - [Insomnia REST client](https://insomnia.rest/)
