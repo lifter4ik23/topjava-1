@@ -125,6 +125,7 @@
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 10. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFU3hMR0o4eGNoUmc">Spring Security Test</a>
 #### Apply 9_12_spring_security_test.patch
+#### Apply 9_13_test_fix.patch
 
 > - Cделал "честную" авторизацию в `RootControllerTest` (через `authentication` в утильном методе `TestUtil`)
 > - Cделал `mockAuthorize` для `SpringMain`, в который не попадают фильтры
