@@ -93,6 +93,9 @@
 
 **Приложение деплоится в ROOT: [http://localhost:8080](http://localhost:8080)**
 
+Починка локализации `Search` в datatables:
+#### Apply 11_12_fix_search_i18n.patch
+
 - [Деплой Java Spring приложения в PaaS-платформу Heroku](http://habrahabr.ru/post/265591)
 ```
 Config Vars
