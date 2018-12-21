@@ -93,6 +93,12 @@
 
 **Приложение деплоится в ROOT: [http://localhost:8080](http://localhost:8080)**
 
+#### Apply 11_12_fix_search_i18n.patch
+> Починка локализации `Search` в datatables:
+
+#### Apply 11_13_fix_webapp_runner.patch
+> [Using without Memcached or Redis](https://github.com/jsimone/webapp-runner#using-without-memcached-or-redis)
+
 - [Деплой Java Spring приложения в PaaS-платформу Heroku](http://habrahabr.ru/post/265591)
 ```
 Config Vars
